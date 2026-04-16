@@ -91,14 +91,16 @@ Right now I am especially interested in:
   <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,html,css,docker,git,github" alt="Core tech stack icons" />
 </div>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivang5209&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=shivang5209&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivang5209&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20and%20ML-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="AI and ML badge" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI badge" />
+  <img src="https://img.shields.io/badge/Frontend-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge" />
+  <img src="https://img.shields.io/badge/Web-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
+  <img src="https://img.shields.io/badge/Style-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
+  <img src="https://img.shields.io/badge/Platform-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge" />
+  <img src="https://img.shields.io/badge/AI%20Workflows-Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face badge" />
+</p>
 
 ## What I Am Building Toward
 
@@ -110,12 +112,12 @@ Right now I am especially interested in:
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivang5209&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivang5209&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=shivang5209&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivang5209&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivang5209&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 ## Current Energy

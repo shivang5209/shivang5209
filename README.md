@@ -10,8 +10,11 @@
   <a href="https://github.com/shivang5209">
     <img src="https://komarev.com/ghpvc/?username=shivang5209&label=Profile%20views&color=0ea5e9&style=flat" alt="Profile views" />
   </a>
+  <a href="https://github.com/shivang5209?tab=followers">
+    <img src="https://img.shields.io/github/followers/shivang5209?label=Followers&style=flat&color=0ea5e9" alt="Followers" />
+  </a>
   <a href="https://github.com/shivang5209?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-Projects%20in%20Progress-0f172a?style=flat&logo=github" alt="Public repositories badge" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=0f172a&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshivang5209" alt="Public repos" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Backend%20%7C%20Web-0284c7?style=flat" alt="Focus badge" />
 </p>
@@ -88,16 +91,14 @@ Right now I am especially interested in:
   <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,html,css,docker,git,github" alt="Core tech stack icons" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20and%20ML-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="AI and ML badge" />
-  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI badge" />
-  <img src="https://img.shields.io/badge/Frontend-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge" />
-  <img src="https://img.shields.io/badge/Web-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript badge" />
-  <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
-  <img src="https://img.shields.io/badge/Style-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
-  <img src="https://img.shields.io/badge/Platform-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge" />
-  <img src="https://img.shields.io/badge/AI%20Workflows-Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face badge" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivang5209&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=shivang5209&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivang5209&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
 
 ## What I Am Building Toward
 
